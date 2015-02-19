@@ -1,0 +1,11 @@
+base
+lattice
+ggplot2
+caret
+AppliedPredictiveModeling
+rpart
+pgmm
+tree
+ElemStatLearn
+randomForest
+knitr
